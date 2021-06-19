@@ -1,5 +1,5 @@
 <figure>
-  <img class="image" width="{{ include.w }}" src="/images/{{ https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png }}"
+  <img class="image" width="{{ include.w }}" src="/images/{{ include.url }}"
     {% if include.caption %}
     alt="{{ include.caption }}"
     {% endif %}
