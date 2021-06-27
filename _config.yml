@@ -6,9 +6,9 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Pckit Blog
-description: A quiet place. 
-github_username: Pckit
+title: PCKIT
+description:
+github_username:
 
 # Email and twitter are optional:
 email:
